@@ -1,0 +1,93 @@
+.title{
+    margin:30px;
+    text-align: center;
+    color:green;
+}
+.inline{
+    display:inline;
+}
+
+input{
+    width:350px;
+    height:35px;
+    border-radius: 5px;
+    padding:15px;
+    border-color: green;
+}
+
+
+.addForm{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:10px;
+    gap:20px;
+}
+
+
+.addFormButton{
+    width:100px;
+    background-color: green;
+    color:white;
+    border-radius: 8px;
+}
+
+.updateForm{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:10px;
+    gap:20px;
+}
+
+
+.updateFormButton{
+    width:150px;
+    background-color: green;
+    color:white;
+    border-radius: 8px;
+}
+
+.cardSection{
+    display:flex;
+    margin:15px 15px 15px 30px;
+    gap:20px;
+    flex-wrap: wrap;
+    
+}
+.subject{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:40px 40px 20px 40px;
+    padding:10px;
+}
+
+.card{
+    width: 18rem;
+    background-color: lightgreen;
+}
+
+.cardButtons{
+    display:flex;
+    justify-content: flex-end;
+    margin:20px 5px 5px 0;
+    gap:10px;
+}
+.editButton{
+    background-color: green;
+    width:70px;
+    border-radius: 8px;
+}
+.deleteButton{
+    background-color: orangered;
+    width: 70px;
+    border-radius: 8px;
+}
+button{
+  border: none;
+}
+select{
+    background-color:rgb(216, 103, 139);
+}
+
