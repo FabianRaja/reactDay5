@@ -1,8 +1,10 @@
-# React + Vite
+# Todo Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a website that we can add todo task with name and description
+With additional features of editing and deleting
+User can change the status to completed or not completed
+User can see all the task by completed or all the task by not completed or all the task with the help of filter
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Live Server](https://reactday5byfabianrajafernando.netlify.app/) 
+
